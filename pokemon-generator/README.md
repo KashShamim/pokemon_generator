@@ -23,4 +23,4 @@ Button Behavior:
 
 **Docs:**
 - API https://graphql-pokemon2.vercel.app
-- urql https://formidable.com/open-source/urql/docs/ (everything you need is on this page!)
+- urql https://formidable.com/open-source/urql/docs/basics/react-preact/#queries (everything you need is on this page!)
